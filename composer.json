@@ -1,0 +1,17 @@
+{
+    "name": "teo/game-of-life",
+    "autoload": {
+        "psr-4": {
+            "Teo\\GameOfLife\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Theofilos Theodoridis",
+            "email": "teoteo08@windowslive.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
